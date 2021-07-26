@@ -1,4 +1,7 @@
-# Serverless - AWS Node.js Typescript
+# ToDo API for Medium
+### Serverless - AWS Node.js Typescript
+
+https://medium.com/firstlineoutsourcing/todo-app-api-with-serverless-framework-terraform-aws-cdk-6eba6797200d
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
